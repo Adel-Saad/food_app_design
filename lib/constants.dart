@@ -1,0 +1,6 @@
+import 'package:flutter/cupertino.dart';
+
+// Colors ...........................
+const Color kMainColor = Color(0xff16B0BF);
+// Strings ..........................
+const String x = 'dfdf';
